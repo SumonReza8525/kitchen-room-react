@@ -3,9 +3,6 @@
 @import "tailwindcss";
 @plugin "daisyui";
 
-.roboto {
+* {
   font-family: "Roboto", sans-serif;
-}
-.outfitFont {
-  font-family: "Outfit", sans-serif;
 }
